@@ -1,4 +1,4 @@
-<h1>Telegram bot</h1>
+<h1 align="center">Telegram bot</h1>
 <h2>All libraries</h2>
 <img src="https://sun9-84.userapi.com/impg/gsP-U_sLUsX3xbn5mpVJ017EJ1MU4730JxbWPQ/WwtPrKnh0Qo.jpg?size=243x90&quality=96&sign=3e3a27048d6312daae626117b5862862&type=album">
 <img src="https://sun9-27.userapi.com/impg/zeDXj-K1OzxbH0gbnXAKds09huuwOMKVczRBrA/xsbnrHdisN8.jpg?size=488x697&quality=96&sign=9bc057d815e74b59761d86265c4e1bc9&type=album">
