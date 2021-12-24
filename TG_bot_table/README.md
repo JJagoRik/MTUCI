@@ -1,4 +1,4 @@
-<h1>Telegram bot with data base</h1>
+<h1 align="center">Telegram bot with data base</h1>
 <h2>All libraries</h2>
 <img src="https://sun9-13.userapi.com/impg/d1Twr9zGw0up030V7zZer0ifa6oIVmXNwYIBRA/JnbTgS6GprA.jpg?size=329x88&quality=96&sign=0ee9cef1ce448d9c7068b412564ed5b5&type=album">
 <h2>Screenshot of bot</h2>
